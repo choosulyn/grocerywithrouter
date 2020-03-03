@@ -37,7 +37,7 @@ header{
 }
 h1{
     color:ivory;
-    background: rgb(122, 63, 100);
+    background: rgb(121, 63, 100);
     font-size: 30px;
 }
 nav{
